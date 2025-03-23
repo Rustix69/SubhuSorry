@@ -2,19 +2,19 @@ import React, { useState } from 'react';
 
 const photos = [
   {
-    url: './public/pic01.jpeg',
+    url: '../assets/pic01.jpeg',
     caption: 'Cutie Dress'
   },
   {
-    url: './public/pic02.jpeg',
+    url: '../assets/pic02.jpeg',
     caption: 'So Gayi Kyu ?'
   },
   {
-    url: './public/pic03.jpeg',
+    url: '../assets/pic03.jpeg',
     caption: 'So Cute'
   },
   {
-    url: './public/pic04.jpeg',
+    url: '../assets/pic04.jpeg',
     caption: 'Proud Moments'
   },
 ];
